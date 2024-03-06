@@ -1,0 +1,8 @@
+{
+    "data_source": "app/data.csv",
+    "state": "CA",
+    "lob": "Small Group",
+    "census": 10,
+    "sic": "1540",
+    "top_n": 50
+}
