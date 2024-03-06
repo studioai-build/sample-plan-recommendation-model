@@ -1,0 +1,82 @@
+[
+ {
+   "data_source": "app/data.csv",
+   "state": "CA",
+   "lob": "Small Group",
+   "census": 10,
+   "sic": 1540,
+   "top_n": 50
+ },
+ {
+   "data_source": "app/data.csv",
+   "state": "CA",
+   "lob": "Small Group",
+   "census": 11,
+   "sic": 1541,
+   "top_n": 51
+ },
+ {
+   "data_source": "app/data.csv",
+   "state": "CA",
+   "lob": "Small Group",
+   "census": 12,
+   "sic": 1542,
+   "top_n": 52
+ },
+ {
+   "data_source": "app/data.csv",
+   "state": "CA",
+   "lob": "Small Group",
+   "census": 13,
+   "sic": 1543,
+   "top_n": 53
+ },
+ {
+   "data_source": "app/data.csv",
+   "state": "CA",
+   "lob": "Small Group",
+   "census": 14,
+   "sic": 1544,
+   "top_n": 54
+ },
+ {
+   "data_source": "app/data.csv",
+   "state": "CA",
+   "lob": "Small Group",
+   "census": 15,
+   "sic": 1545,
+   "top_n": 55
+ },
+ {
+   "data_source": "app/data.csv",
+   "state": "CA",
+   "lob": "Small Group",
+   "census": 16,
+   "sic": 1546,
+   "top_n": 56
+ },
+ {
+   "data_source": "app/data.csv",
+   "state": "CA",
+   "lob": "Small Group",
+   "census": 17,
+   "sic": 1547,
+   "top_n": 57
+ },
+ {
+   "data_source": "app/data.csv",
+   "state": "CA",
+   "lob": "Small Group",
+   "census": 18,
+   "sic": 1548,
+   "top_n": 58
+ },
+ {
+   "data_source": "app/data.csv",
+   "state": "CA",
+   "lob": "Small Group",
+   "census": 19,
+   "sic": 1549,
+   "top_n": 59
+ }
+]
